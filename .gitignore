@@ -1,0 +1,6 @@
+nexuspersonal-*.gz
+nexuspersonal-*.xz
+pkg/*
+personal*
+LinuxPersonal*
+test/*

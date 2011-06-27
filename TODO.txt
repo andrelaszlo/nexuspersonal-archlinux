@@ -1,0 +1,1 @@
+run ldd on /usr/local/lib/personal/personal.bin and check deps

@@ -11,9 +11,9 @@ If you only want to install it, you don't need to be here. Install
 helper](https://wiki.archlinux.org/index.php/AUR_Helpers)) and then
 get the [nexuspersonal
 package](https://aur.archlinux.org/packages.php?ID=33976&detail=1). This
-repository is mostly for people interested in contributing to the AUR
-package itself.
+repository is intended mostly for people interested in contributing to
+the AUR package itself.
 
-The package was created by whacath but is currently maintained by
-[André Laszlo](http://www.laszlo.nu) If you want to reach André, his
+The package was created by _whacath_ but is currently maintained by
+[André Laszlo](http://www.laszlo.nu). If you want to reach André, his
 email address is his first name at his last name dot nu.

@@ -1,3 +1,6 @@
+# Maintainer: André Laszlo <andre@laszlo.nu>
+# Contributor: whacath <koaxialkabel@gmail.com>
+
 pkgname=nexuspersonal
 pkgver=4.18.0.10751
 pkgrel=3

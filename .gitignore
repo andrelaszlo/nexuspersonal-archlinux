@@ -7,3 +7,4 @@ test/*
 *~
 tools/lasturl.txt
 tools/pagetemp.html
+tools/*.tgz

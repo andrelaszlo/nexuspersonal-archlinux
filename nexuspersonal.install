@@ -1,0 +1,5 @@
+## arg 1:  the new package version
+post_install() {
+  echo "Running ldconfig"
+  ldconfig /usr/local/lib
+}

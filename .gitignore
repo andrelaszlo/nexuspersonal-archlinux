@@ -4,3 +4,6 @@ pkg/*
 personal*
 LinuxPersonal*
 test/*
+*~
+tools/lasturl.txt
+tools/pagetemp.html

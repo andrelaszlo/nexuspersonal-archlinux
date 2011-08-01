@@ -23,7 +23,8 @@ then
 	else
 		echo "New version!"
 		echo $URLS
-		echo "New version of NexusPersonal available at $URLS" | mail -s "New NexusPersonal version" andre@laszlo.nu
+		#echo "New version of NexusPersonal available at $URLS" | mail -s "New NexusPersonal version" andre@laszlo.nu
+		curl "http://andre.laszlo.nu/emailme.php?title=New%20NexusPersonal%20version&message=New%20version%20of%20NexusPersonal%20available%20at%20$URLS"
 		mv newurl.txt lasturl.txt
 		exit 1
 	fi

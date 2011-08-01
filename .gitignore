@@ -1,10 +1,14 @@
 nexuspersonal-*.gz
 nexuspersonal-*.xz
+BISP-*.gz
+BISP-*.xz
 pkg/*
+src/*
 personal*
 LinuxPersonal*
 test/*
 *~
 tools/lasturl.txt
+tools/newurl.txt
 tools/pagetemp.html
 tools/*.tgz

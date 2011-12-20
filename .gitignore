@@ -11,4 +11,5 @@ test/*
 tools/lasturl.txt
 tools/newurl.txt
 tools/pagetemp.html
+tools/*.log
 tools/*.tgz

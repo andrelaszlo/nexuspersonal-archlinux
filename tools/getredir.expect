@@ -1,0 +1,20 @@
+#!/usr/bin/expect -f
+
+set host "install.bankid.com"
+set file "Download?defaultFileId=Linux"
+
+spawn telnet $host 80
+expect "Connected to $host."
+
+log_file "http-redir.log"
+
+send "GET /$file HTTP/1.0\r"
+send "Host: $host\r\r"
+
+expect "Connection closed by foreign host."
+
+#send -break"
+close
+#interact
+
+

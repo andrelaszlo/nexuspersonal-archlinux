@@ -1,7 +1,7 @@
 Nexus Personal package for Arch Linux
 =====================================
 
-This is the files necessary to create an [Arch
+These are the files necessary to create an [Arch
 Linux](http://www.archlinux.org/) package for [Nexus
 Personal](http://www.nexussafe.com/sv/Produkter/Nexus-Personal/) (also
 known as [BankID](http://bankid.com)).
